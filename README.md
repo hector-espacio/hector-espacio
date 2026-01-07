@@ -1,6 +1,8 @@
 # 👋 Hola soy Hector
 Me dedico a hacer tareas en las ramas de:
 &nbsp;
+
+&nbsp;
 ## 📊 Business Intelligence
 - Consultoría BI usando **Google Sheets** y **Looker Studio**
 - Creación de dashboards enfocados en la toma de decisiones
