@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola soy Hector y me dedico a hacer tareas en las ramas de:
 
+## 📊 Business Intelligence
+- Consultoría BI usando **Google Sheets** y **Looker Studio**
+- Creación de dashboards enfocados en la toma de decisiones
 
-**hector-espacio/hector-espacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Análisis de Datos
+- Análisis de datos con **Python**
+- Trabajo en **Google Colab**
+- Uso de **pandas** y **matplotlib**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## 🎨 Frontend Web
+- Desarrollo frontend con enfoque simple
+- Uso de **CSS vanilla**
